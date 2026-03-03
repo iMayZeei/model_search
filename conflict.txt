@@ -1,1 +1,3 @@
 LINE: branch2 commit3 
+LINE: branch1 commit3 
+
